@@ -1,5 +1,14 @@
 # Hosting Your Resume on GitHub Pages
 
+## Contents
+
+- [Purpose](#Purpose)
+- [Prerequisites](#Prerequisites)
+- [Instructions](#Instructions)
+- [More Resources](#More-Resources)
+- [Authors and Acknowledgements](#Authors-and-Acknowledgements)
+- [FAQs](#FAQs)
+
 ## Purpose
 
 This README guides you through hosting and formatting your resume on GitHub Pages, demonstrating practical application of the principles of current Technical Writing as explained in Andrew Etter's *Modern Technical Writing*. We aim to relate each step of the process to Etter's recommendations for technical documentation, with a focus on using lightweight markup (Markdown), distributed version control (GitHub), and static site generators.
