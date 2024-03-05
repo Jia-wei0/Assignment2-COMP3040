@@ -19,6 +19,6 @@ Bachelor of Science in Computer Science, University of Manitoba (Expected Gradua
 - Developed a web-based application for tracking inventory using Java and MySQL
 - Created a mobile app prototype for expense management using React Native
 
-## languages
+## Languages
 - English (Fluent)
 - Chinese (Native)
