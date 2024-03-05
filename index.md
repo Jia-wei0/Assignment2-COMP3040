@@ -1,9 +1,9 @@
 # Resume
 
 ## Jiawei Fan
-Address: XX Drew St, Winnipeg, MB  
-Phone: XXX-XXX-XXXX  
-Email: fanj2@myumanitoba.ca
+**Address**: XX Drew St, Winnipeg, MB  
+**Phone**: XXX-XXX-XXXX  
+**Email**: fanj2@myumanitoba.ca
 
 ## Education
 Bachelor of Science in Computer Science, University of Manitoba (Expected Graduation: 2024-12)
