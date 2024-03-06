@@ -65,16 +65,15 @@ Include an animated gif showing the process of editing, committing, and viewing 
 
 ## More Resources
 
-- **Markdown Guide**: For those new to Markdown, [Markdown Guide](https://www.markdownguide.org/getting-started/) is an excellent place to start.
-- **Modern Technical Writing**: Andrew Etter's book for a deeper understanding of the principles applied here.
-- **GitHub Pages Documentation**: For more details on using GitHub Pages.
-- **Jekyll**: Learn more about the static site generator used by GitHub Pages.
+- **[Markdown Guide](https://www.markdownguide.org/getting-started/)**: For those new to Markdown, Markdown Guide is an excellent place to start.
+- **[Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)**: Andrew Etter's book for a deeper understanding of the principles applied here.
+- **[Write the docs](https://www.writethedocs.org/)**: It is helpful for your document writing.
+- **[Jekyll](https://ubc-library-rc.github.io/intro-jekyll/jekyll/)**: Learn more about the static site generator used by GitHub Pages.
 
 
 ## Authors and Acknowledgements
 
-Credit to Andrew Etter for the principles outlined in *Modern Technical Writing* and to GitHub for providing the platform used in this tutorial. This README was prepared by [Your Name], with thanks to all template authors and group members who contributed.
-
+Credit to Andrew Etter for the principles outlined in *Modern Technical Writing* and to GitHub for providing the platform used in this tutorial. This README was prepared by Jiawei Fan, with thanks to all the template authors ([matiassingers](https://github.com/matiassingers/awesome-readme) and [alichtman](https://github.com/alichtman/shallow-backup)'s templates) and the group members who helped me.
 
 ## FAQs
 
