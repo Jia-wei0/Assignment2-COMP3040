@@ -1,5 +1,6 @@
 # Hosting Your Resume on GitHub Pages
 
+
 ## Contents
 
 - [Purpose](#Purpose)
@@ -8,17 +9,19 @@
 - [More Resources](#More-Resources)
 - [Authors and Acknowledgements](#Authors-and-Acknowledgements)
 - [FAQs](#FAQs)
-  - [Why is Markdown better than a word processor for documentation?](#Why-is-Markdown-better-than-a-word-processor-for-documentation?)
-  - [Why is my resume not showing up on GitHub Pages?](Why-is-my-resume-not-showing-up-on-GitHub-Pages?)
+  - [Why is Markdown better than a word processor for documentation?](##Why-is-Markdown-better-than-a-word-processor-for-documentation?)
+
 
 ## Purpose
 
 This README help you through hosting and formatting your resume on GitHub Pages, demonstrating practical application of the principles of current Technical Writing as explained in Andrew Etter's *Modern Technical Writing*. We aim to relate each step of the process to Etter's recommendations for technical documentation, with a focus on using lightweight markup (Markdown), distributed version control (GitHub), and static site generators.
 
+
 ## Prerequisites
 
-- A resume formatted in Markdown. If you're unfamiliar with Markdown, don't worry! It's a simple, readable syntax for formatting text. And I've prepared a [link](#Markdown-Guide) to the *Markdown Guide* in the More Resource section.
+- A resume formatted in Markdown. If you're unfamiliar with Markdown, don't worry! It's a simple, readable syntax for formatting text. And I've prepared a [link](#More-Resources) to the *Markdown Guide* in the More Resource section.
 - A GitHub account.
+
 
 ## Instructions
 
@@ -52,9 +55,11 @@ This README help you through hosting and formatting your resume on GitHub Pages,
 
 **Practical Step**: Whenever you need to update your resume, simply commit changes to the `index.md` file in your repository. GitHub Pages will automatically rebuild your site with the changes.
 
+
 ## Animated GIF Demo
 
 Include an animated gif showing the process of editing, committing, and viewing changes to your resume on GitHub Pages. Ensure your own name is visible in the resume demo.
+
 
 ## More Resources
 
@@ -63,9 +68,11 @@ Include an animated gif showing the process of editing, committing, and viewing 
 - **GitHub Pages Documentation**: For more details on using GitHub Pages.
 - **Jekyll**: Learn more about the static site generator used by GitHub Pages.
 
+
 ## Authors and Acknowledgements
 
 Credit to Andrew Etter for the principles outlined in *Modern Technical Writing* and to GitHub for providing the platform used in this tutorial. This README was prepared by [Your Name], with thanks to all template authors and group members who contributed.
+
 
 ## FAQs
 
