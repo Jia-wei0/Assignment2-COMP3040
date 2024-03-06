@@ -22,7 +22,7 @@ This README guides you through hosting and formatting your resume on GitHub Page
 
 ### 1. Create a GitHub Repository
 
-**Etter's Principle**: Use distributed version control systems.
+**Etter's Principle**:```Use distributed version control systems.```
 
 **Practical Step**: Sign into your GitHub account and create a new repository named `<yourusername>.github.io`, replacing `<yourusername>` with your GitHub username. This will host your static site (your resume) on GitHub Pages.
 
