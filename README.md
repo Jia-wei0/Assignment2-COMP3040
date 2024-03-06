@@ -10,7 +10,7 @@
 - [Authors and Acknowledgements](#Authors-and-Acknowledgements)
 - [FAQs](#FAQs)
   - [Why is Markdown better than a word processor for documentation?](#Why-is-Markdown-better-than-a-word-processor-for-documentation)
-  - Why is my resume not showing up on GitHub Pages?
+  - [Why is my resume not showing up on GitHub Pages?](#Why-is-my-resume-not-showing-up-on-GitHub-Pages)
 
 
 
