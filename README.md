@@ -13,11 +13,11 @@
 
 ## Purpose
 
-This README guides you through hosting and formatting your resume on GitHub Pages, demonstrating practical application of the principles of current Technical Writing as explained in Andrew Etter's *Modern Technical Writing*. We aim to relate each step of the process to Etter's recommendations for technical documentation, with a focus on using lightweight markup (Markdown), distributed version control (GitHub), and static site generators.
+This README help you through hosting and formatting your resume on GitHub Pages, demonstrating practical application of the principles of current Technical Writing as explained in Andrew Etter's *Modern Technical Writing*. We aim to relate each step of the process to Etter's recommendations for technical documentation, with a focus on using lightweight markup (Markdown), distributed version control (GitHub), and static site generators.
 
 ## Prerequisites
 
-- A resume formatted in Markdown. If you're unfamiliar with Markdown, don't worry! It's a simple, readable syntax for formatting text.
+- A resume formatted in Markdown. If you're unfamiliar with Markdown, don't worry! It's a simple, readable syntax for formatting text. And I've prepared a [link](#Markdown-Guide) to the *Markdown Guide* in the More Resource section.
 - A GitHub account.
 
 ## Instructions
@@ -58,7 +58,7 @@ Include an animated gif showing the process of editing, committing, and viewing 
 
 ## More Resources
 
-- **Markdown Tutorial**: For those new to Markdown, [Markdown Guide](https://www.markdownguide.org/getting-started/) is an excellent place to start.
+- **Markdown Guide**: For those new to Markdown, [Markdown Guide](https://www.markdownguide.org/getting-started/) is an excellent place to start.
 - **Modern Technical Writing**: Andrew Etter's book for a deeper understanding of the principles applied here.
 - **GitHub Pages Documentation**: For more details on using GitHub Pages.
 - **Jekyll**: Learn more about the static site generator used by GitHub Pages.
