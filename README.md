@@ -16,46 +16,54 @@
 
 ## Purpose
 
-This README help you through hosting and formatting your resume on GitHub Pages, demonstrating practical application of the principles of current Technical Writing as explained in Andrew Etter's *Modern Technical Writing*. We aim to relate each step of the process to Etter's recommendations for technical documentation, with a focus on using lightweight markup (Markdown), distributed version control (GitHub), and static site generators.
+The purpose of this README is to guide you through the process of hosting and formatting your resume on GitHub Pages, effectively applying the principles of modern technical writing as detailed in Andrew Etter's *Modern Technical Writing*. This document not only instructs on the technical steps but also relates each step to Etter's broader recommendations for effective technical communication, emphasizing the use of lightweight markup (Markdown), distributed version control (GitHub), and static site generators.
 
 
 ## Prerequisites
 
-- A resume formatted in Markdown. If you're unfamiliar with Markdown, don't worry! It's a simple, readable syntax for formatting text. And I've prepared a [link](#More-Resources) to the *Markdown Guide* in the More Resource section.
-- A GitHub account.
+Before you begin, ensure you have the following:
+
+- A resume formatted in Markdown. Markdown is a simple, readable markup language designed for formatting text on the web. If you're new to Markdown, no worries—it's designed to be easy to learn. And I've prepared a [link](#More-Resources) to the *Markdown Guide* in the More Resource section.
+- A GitHub account. GitHub will serve as the platform for hosting your resume via GitHub Pages.
 
 
 ## Instructions
 
 ### 1. Create a GitHub Repository
 
-**Etter's Principle**:```Use distributed version control systems.```
+**Related Principle**: Utilize distributed version control systems for collaboration and versioning.
 
-**Practical Step**: Sign into your GitHub account and create a new repository named `<yourusername>.github.io`, replacing `<yourusername>` with your GitHub username. This will host your static site (your resume) on GitHub Pages.
+**Practical Step**: Sign into your GitHub account and create a new repository named **`<yourusername>.github.io`**, replacing **`<yourusername>`** with your GitHub username. This will host your static site (your resume) on GitHub Pages.
 
 ### 2. Add Your Resume in Markdown Format
 
-**Etter's Principle**: Write using lightweight markup languages.
+**Related Principle**: Adopt lightweight markup languages for their simplicity and versatility.
 
-**Practical Step**: Create a file named `index.md` in your repository and paste your Markdown-formatted resume into this file. Markdown allows you to format your document in a way that's both human-readable and convertible into HTML.
+**Practical Step**: In your repository, create a file named **`index.md`** and paste your Markdown-formatted resume into this file. Markdown facilitates document formatting in a readable manner, easily convertible into HTML for web presentation.
 
 ### 3. Enable GitHub Pages for Your Repository
 
-**Etter's Principle**: Use static site generators.
+**Related Principle**: Leverage static site generators to automate webpage generation from plain text content.
 
-**Practical Step**: In your repository settings, find the GitHub Pages section and select the main branch as the source. GitHub will automatically render your Markdown file into a static website using Jekyll, a static site generator.
+**Practical Step**: Navigate to your repository settings, find the GitHub Pages section, and select the main branch as the source. GitHub Pages will automatically render your Markdown file into a static website using Jekyll, a popular static site generator.
 
-### 4. Customize Your Page (Optional)
+### 4. Customize Your Page
 
-**Etter's Principle**: Emphasize simplicity and usability in design.
+**Related Principle**: Focus on simplicity and user experience in design.
 
-**Practical Step**: You can customize the look of your resume by adding a Jekyll theme or editing the CSS directly. This step is optional but helps make your resume visually appealing.
+**Practical Step**: Customize your resume's web presentation by selecting a Jekyll theme or editing the CSS directly. This step enhances the visual appeal of your resume, though it remains optional based on personal preference.
 
 ### 5. Update and Maintain Your Resume
 
-**Etter's Principle**: Keep documentation current.
+**Related Principle**: Keep documentation current and maintain it regularly.
 
-**Practical Step**: Whenever you need to update your resume, simply commit changes to the `index.md` file in your repository. GitHub Pages will automatically rebuild your site with the changes.
+**Practical Step**: Whenever you need to update your resume, simply commit changes to the **`index.md`** file in your repository. GitHub Pages will automatically rebuild your site with the changes.
+
+### 6. View Your Resume on Your Static Website
+
+**Related Principle**: Test and review your documentation.
+
+**Practical Step**: Once GitHub Pages is enabled and your resume is uploaded, you can view your static website by navigating to https://<yourusername>.github.io. This URL will display your Markdown-formatted resume as a web page, allowing you to review and ensure everything is correctly formatted and publicly accessible.
 
 
 ## Animated GIF Demo
