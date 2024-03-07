@@ -47,7 +47,7 @@ Before you begin, ensure you have the following:
 
 **Practical Step**: In your repository, create a file named **`index.md`** and paste your Markdown-formatted resume into this file. Markdown facilitates document formatting in a readable manner, easily convertible into HTML for web presentation.
 
-![How to submit files](#Submit_file.gif)
+![How to submit files](SubmitFile.gif)
 
 ### 3. Enable GitHub Pages for Your Repository
 
@@ -73,10 +73,7 @@ Before you begin, ensure you have the following:
 
 **Practical Step**: Once GitHub Pages is enabled and your resume is uploaded, you can view your static website by navigating to https://<yourusername>.github.io. This URL will display your Markdown-formatted resume as a web page, allowing you to review and ensure everything is correctly formatted and publicly accessible.
 
-
-## Animated GIF Demo
-
-Include an animated gif showing the process of editing, committing, and viewing changes to your resume on GitHub Pages. Ensure your own name is visible in the resume demo.
+![How to find website](HowToFindWebsite.gif)
 
 
 ## More Resources
