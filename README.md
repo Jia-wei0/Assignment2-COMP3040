@@ -6,6 +6,7 @@
 - [Purpose](#Purpose)
 - [Prerequisites](#Prerequisites)
 - [Instructions](#Instructions)
+  - [1. Create a GitHub Repository](#Create-a-GitHub-Repository)
 - [More Resources](#More-Resources)
 - [Authors and Acknowledgements](#Authors-and-Acknowledgements)
 - [FAQs](#FAQs)
