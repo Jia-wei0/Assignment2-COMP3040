@@ -47,6 +47,8 @@ Before you begin, ensure you have the following:
 
 **Practical Step**: In your repository, create a file named **`index.md`** and paste your Markdown-formatted resume into this file. Markdown facilitates document formatting in a readable manner, easily convertible into HTML for web presentation.
 
+![How to submit files](Submit-file.gif)
+
 ### 3. Enable GitHub Pages for Your Repository
 
 **Related Principle**: Leverage static site generators to automate webpage generation from plain text content.
