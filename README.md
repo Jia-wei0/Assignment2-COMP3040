@@ -48,7 +48,7 @@ Before you begin, ensure you have the following:
 **Practical Step**: Create a Markdown file called **`index.md`** in your Markdown editor. After editing your resume in the **`index.md`** file, paste the **`index.md`** file into a repository on GitHub. Markdown facilitates formatting of the document in a readable way. Easily convert to HTML for Web presentation.    
 I used a GIF image to show how to submit a file.
 
-![How to submit files](SubmitFile.gif)
+![How to submit files](Image/SubmitFile.gif)
 
 ### 3. Enable GitHub Pages for Your Repository
 
